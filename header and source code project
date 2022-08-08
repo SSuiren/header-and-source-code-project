@@ -1,0 +1,20 @@
+// Header and Source Code files for Projects.cpp : This file contains the 'main' function. Program execution begins and ends there.
+/*
+taiquan evans
+8/7/2022
+*/
+
+//the main file
+
+#include "Header.h"
+#include "calling.h"
+
+
+//main function
+int main()
+{
+	//calls to function rose
+	rose();
+
+	return 0;
+}
